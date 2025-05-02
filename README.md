@@ -12,4 +12,4 @@ Salchicha
 8. aparecerá un botón de "sync" para la sincronización con el git hub, asegurar que siempre estemos sincoronizados con lo que trabajamos
  (el ecosistema de git es el clonar, modificar, cada cambio que se hace)
  (en consola se puede ver todos los comandos para ver lso cambios que se están ejecutando)
- ( 
+ ( )
