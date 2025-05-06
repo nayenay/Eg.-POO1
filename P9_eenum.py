@@ -1,3 +1,5 @@
+#P9
+#Enum
 from enum import Enum
 class Consecutive(Enum):
     Lunes=1
