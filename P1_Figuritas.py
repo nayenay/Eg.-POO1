@@ -1,3 +1,5 @@
+#Práctica 1
+#Programación de figuras sin constructor 
 class Cuadrado: 
     def perimetro(L):
         p=L*5
