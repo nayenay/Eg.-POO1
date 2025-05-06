@@ -1,3 +1,5 @@
+#P13 Conjuntos (es solo una parte de la práctica 13
+# P13 incluye arreglos, listas, conjuntos y diccionarios
 #Crear un conjunto de 5 elementos 
 #   agregar un calor que no existe en el conjunto
 #   eliminar un valor que existe 
