@@ -1,15 +1,63 @@
 # Eg.-POO1
-Ejemplo para crear un repositorio 
-xd
-Salchicha
-1. Crear un repositorio en github (para que sea más fácil, sí se puede hacer una carpeta en vs code pero es más dificil) con comansdos git
-2. Clonar repo (Source control en vs code en la barra de la izquierda)
-3. Una vez clonado entrar a Explorer y poner un README.md
-4. Modificar/Crear (el simbolo parece un grafo creo)
-5. ya vimos un cambio, lo selecionamos, todos los archivos estan en una carpeta llamada chancheds, dar click en "+" aparecerá un "-"
-6. cuando ya todos están en "-" se hace un commit que es para hacer un mensaje (como comentario creo) si el cambio que hiciste fue crear un archivo se escribe "Create"  y subiste "Update"
-7. Por ultimo presionar COMMIT
-8. aparecerá un botón de "sync" para la sincronización con el git hub, asegurar que siempre estemos sincoronizados con lo que trabajamos
- (el ecosistema de git es el clonar, modificar, cada cambio que se hace)
- (en consola se puede ver todos los comandos para ver lso cambios que se están ejecutando)
- ( )
+Berenice Nayeli Madrid Rodarte
+
+
+
+P1-3_Figuras
+    P1_Figuritas
+    P1.2_Figuritas
+    P2_poo1
+    P3_Figura_estructura
+P4,6,7,8_4PilaresPOO
+    P4_Encapsulamiento_chela
+    P6_Abstracción
+    P7-8_Herenica+Polimorfirmo_empleado
+    4 Pilares poo
+    transportee
+    Mainn
+P5_Numpy
+    Numpy_con_arreglos+listas
+    Numpy_con_listas
+    Numpy_con_figuras
+P9_ENUM
+    P9_eenum
+    P9_ENUM_Dias_semana
+P10_11_Diseño avanzado de clases
+    4Pilares
+    CuentaBancaria
+    transporte
+P12_Try
+    _P4_Dias_semana
+    Dias_semana_sijalo
+    Dias_semana
+P13_Arreglos_Listas_Conjuntos_diccionarios
+    arreglos_listas
+    Conjuntos
+    Diccionarios
+    listas
+    P13_Conjuntos
+P14_Jsons
+    P14_jsons
+    losjsons
+    pokemon.json
+P15_Flask
+    flask1
+    flask2
+    flask3
+P16_Hilos y RED
+    P16_Hilos
+    P16,2_asyncio
+    hilos_2
+ttping
+
+
+#Otros documentos fuera de la clase de POO con Python
+Otros_archivos
+    Clase31march
+    index.html
+Java_POO1_
+    EjemploPersona
+    hola
+    Main
+    Main
+    Saludo
